@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/menu_item_schedule" android:id="@+id/itemSchedule"/>
+    <item android:title="@string/menu_item_about_programm" android:id="@+id/itemAboutProgramm"/>
+</menu>

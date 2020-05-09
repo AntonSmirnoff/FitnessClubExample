@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitnessClubExample</string>
+    <string name="image_fitnass_club">Изображение фитнес клуба</string>
+    <string name="button_open_schedule">Открыть расписание</string>
+    <string name="fitness_club_example">Fitness Club Example</string>
+    <string name="menu_item_schedule">Расписание</string>
+    <string name="menu_item_about_programm">О программе</string>
+    <string name="teacher_name">Преподаватель:</string>
+</resources>
